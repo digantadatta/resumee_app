@@ -1,16 +1,11 @@
-# diganta_resumee
+# **Resumee Application UI/UX Using Flutter**
 
-A new Flutter project.
 
-## Getting Started
+Get rid of your old and deprecated text resume . So I created an interesting way to implement with flutter.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+```
+![alt text](https://github.com/digantadatta/resumee_app/blob/main/join.jpg)
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Its an beautiful UI/UX implementation and which helps us to understand fast the Stateful and stateless widgets fast
